@@ -1,5 +1,15 @@
+
+using Gadfly
+
 module GadVid
+	
+	using Gadfly
+		
+	export 
+	VideoBuilder,
+	add_frame,
+	display_video
 
-# package code goes here
+	include("to_video.jl")
 
-end # module
+end 
