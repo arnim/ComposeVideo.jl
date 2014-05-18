@@ -1,7 +1,7 @@
 
 using Gadfly
 
-module GadVid
+module ComposeVideo
 	
 	using Gadfly
 		
