@@ -6,4 +6,6 @@ Have a look at the [demo](http://nbviewer.ipython.org/urls/dl.dropboxusercontent
 
 Currently requires [ffmpeg](http://www.ffmpeg.org/) to be installed manually.
 
+See at [Reel.jl](https://github.com/shashi/Reel.jl) to use any object with a writemime for png / jpg.
+
 
